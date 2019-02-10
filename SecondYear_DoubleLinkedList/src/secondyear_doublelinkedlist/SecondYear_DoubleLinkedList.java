@@ -7,8 +7,9 @@ package secondyear_doublelinkedlist;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
+
 public class SecondYear_DoubleLinkedList {
 
     /**
